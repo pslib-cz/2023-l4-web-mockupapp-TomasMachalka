@@ -5,6 +5,7 @@
 <br>Grafika byla částečně generována pomocí nástroje Leonardo AI.
 <br>
 <br>Gameplay je nastíněn v souboru "ukázka", ve kterém je vše rozpohybováno pomocí Powerpointu.
+![asdasd](
 
 ## Děj hry
 Hra vychází ze stejnojmenné povídky Tomáše Machálky, který je zároveň autorem designu.
